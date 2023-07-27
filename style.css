@@ -1,3 +1,48 @@
+body {
+    background-color: rgba(218, 68, 68, 0.836);
+}
+
+h1 {
+    font-size: 65px;
+    font: Verdana, sans-serif;
+
+    text-align: right;
+}
+
+h2 {
+
+}
+
+h3 {
+    font-size: 20px;
+    font: Verdana, sans-serif
+}
+
+li {
+    font-size: 30px;
+    font: Verdana, sans-serif;
+}
+
 p {
-    background-color: blue;
+    font-size: 25px;
+    font: Verdana, sans-serif;
+}
+
+a {
+    font-size: 30px;
+    font: Verdana, sans-serif;
+
+    color: rgb(0, 0, 0);
+
+    text-align: left;
+    text-decoration: underline;
+}
+
+.return-link {
+    font-size: 20px;
+}
+
+img {
+    width: auto;
+    height: 400px;
 }
